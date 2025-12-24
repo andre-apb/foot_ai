@@ -132,5 +132,4 @@ Thumbs.db
 logs/
 
 # Local configuration
-config.py
 secrets.py
